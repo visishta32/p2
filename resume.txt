@@ -1,0 +1,99 @@
+<DOCTYPE html>
+<html>
+<body>
+<head>
+<style>
+h1 {
+    text-align : center;
+}
+h2 {
+    text-align : left;
+}
+h3 {
+    text-align : right;
+}
+</style>
+</head>
+<h1><i><font size="medium"> C.Visishta</font></i> </h1>
+<p><h4>D.No:3-74/3,pendurthy</h4><h3>Email:cvisishta.15.cse@anits.edu.in<h3></p>
+<p><h4>vishakapatnam,530047</h4><h3>phone no:8186885434</h3></p>
+<hr>
+<h2><font size: 30%>CARRER OBJECTIVE</font></h2>
+<p>     I would like a carrer that gives me rich exposure through diverse as signment and working with people of high caliber. I would constantly look out for challenges,which would help me to achieve my personal and professional goal.</p>
+</hr>
+<h2>SKILLS PROFILE</h2>
+<h2>a)ACCADEMIC QUALIFICATIONS</h2>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+<body>
+ <table>
+  <tr>
+     <th>sno</th>
+     <th>class</th>
+     <th>university</th>
+     <th>year</th>
+     <th>percentage</th>
+  </tr>
+  <tr>
+      <td>1</td>
+      <td>btech</td>
+      <td>ANITS</td>
+      <td>2019</td>
+      <td>75%</td>
+  </tr>
+  <tr> 
+      <td>2</td>
+      <td>inter</td>
+      <td>Narayana</td>
+      <td>2015</td>
+      <td>93%</td>  
+   </tr>
+   <tr>
+       <td>3</td>
+       <td>10 th</td>
+       <td>Bhashyam Public School</td>
+       <td>2013</td>
+       <td>93%</td>
+   </tr>
+</table>
+</body>
+<h2>b)TECHNICAL</h2>
+<style>p.indent{padding-left:1.6em }</style>
+<p>     completed course in c,c++,java.</p>
+<h2>STRENGTHS</h2>
+<p>1. Able to work efficiently and effectively in any case.</p>
+<p>2. multi lingual</p>
+<p>3.Ability to work as individual as well as in teams.</p>
+<h2>PERSONAL PROFILE</h2>
+<p> <span id="tab">    Name                   :C.Visishta</span></p>
+<p>     Father Name            :C.Vijay Raj</p>
+<p>     Mother Name            :C.Vani</p>
+<p>     Date of Birth          :17/06/1998</p>
+<p>     Marital status         :Single</p>
+<p>     Languages              :English,Hindi,Telugu</p>
+<p>     Hobbies                :Reading books,Gardening.</p>
+<h2>REFERENCES</h2>
+<p>     1.Dr.R.Shivaranjani,HOD</p>
+<p>       ANITS,Sangivalsa</p>
+<p>       phone no:9000123999</p>
+<p>     2.K.Chandra Shekhar,Asst Prof</p>
+<p>       ANITS,Sangivalsa </p>
+<p>      phone no:9959229690
+<h4>Date:8/12/2017</h4>
+<h4>Place:Vizag</h4>
+<h3>C.Visishta</h3>
